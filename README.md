@@ -16,7 +16,7 @@ Some things I've worked on:
 
 - **[GDPx](https://gdpx.semianalysis.com/domains/hardware-design)** —
   contributed AI evaluations for computer-aided manufacturing with
-  **Beautiful Machines**, as part of **SemiAnalysis's GDPx benchmark**
+  Beautiful Machines, as part of SemiAnalysis's GDPx benchmark
 
 I also produce music and like to read.
 
