@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+I'm Jeff, current sophomore at Harvard studying computer science and mechanical engineering.
 
 <!--
 **pqori/pqori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
